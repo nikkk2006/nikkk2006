@@ -16,7 +16,6 @@ jobs:
       uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        fetch-depth: 0
 
     - name: Generate snake animation
       uses: Platane/snk@master
@@ -32,4 +31,3 @@ jobs:
         publish_dir: ./dist
         publish_branch: output
         force_orphan: true
-        keep_files: false
