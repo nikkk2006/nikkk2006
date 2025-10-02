@@ -1,6 +1,6 @@
 # Привет, меня зовут Никита! 👋
 
-**Backend Developer**
+**Student of BNTU**
 
 ## 🛠️ Мой Tech Stack
 
