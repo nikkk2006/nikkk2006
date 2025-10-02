@@ -22,6 +22,8 @@
 
 ## 🐍 Моя анимация контрибуций
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
 
 ⭐️ *Спасибо, что заглянули! Не стесняйтесь обращаться, если хотите пообщаться о проектах или возможностях.*
