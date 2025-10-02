@@ -20,4 +20,6 @@
 
 ---
 
+![Snake animation](https://raw.githubusercontent.com/nikkk2006/nikkk2006/output/github-contribution-grid-snake.svg)
+
 ⭐️ *Спасибо, что заглянули! Не стесняйтесь обращаться, если хотите пообщаться о проектах или возможностях.*
