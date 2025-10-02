@@ -1,16 +1,23 @@
-## Hi there 👋
+# Привет, меня зовут Никита! 👋
 
-<!--
-**nikkk2006/nikkk2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer**
 
-Here are some ideas to get you started:
+## 🛠️ Мой Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Языки:** Python, Java, C++, C#
+*   **Базы данных:** PostgreSQL, SQLite
+*   **Инструменты:** Docker, Git, GitHub Actions
+
+## 📈 Моя статистика на GitHub
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikkk2006&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikkk2006&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🔗 Свяжитесь со мной
+
+*   **Telegram:** [@hhellriderr](https://t.me/hhellriderr)
+*   **Email:** hlinski220706@gmail.com
+
+---
+
+⭐️ *Спасибо, что заглянули! Не стесняйтесь обращаться, если хотите пообщаться о проектах или возможностях.*
